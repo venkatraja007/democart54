@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/democart54/static/css/main.fa996911.chunk.css",
+    "main.js": "/democart54/static/js/main.df80b870.chunk.js",
+    "main.js.map": "/democart54/static/js/main.df80b870.chunk.js.map",
+    "runtime-main.js": "/democart54/static/js/runtime-main.45c6712f.js",
+    "runtime-main.js.map": "/democart54/static/js/runtime-main.45c6712f.js.map",
+    "static/js/2.4ed6be8d.chunk.js": "/democart54/static/js/2.4ed6be8d.chunk.js",
+    "static/js/2.4ed6be8d.chunk.js.map": "/democart54/static/js/2.4ed6be8d.chunk.js.map",
+    "index.html": "/democart54/index.html",
+    "precache-manifest.4ff77a8ee0cfd2d2f4b48b764be2b0c1.js": "/democart54/precache-manifest.4ff77a8ee0cfd2d2f4b48b764be2b0c1.js",
+    "service-worker.js": "/democart54/service-worker.js",
+    "static/css/main.fa996911.chunk.css.map": "/democart54/static/css/main.fa996911.chunk.css.map",
+    "static/js/2.4ed6be8d.chunk.js.LICENSE.txt": "/democart54/static/js/2.4ed6be8d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/democart54/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45c6712f.js",
+    "static/js/2.4ed6be8d.chunk.js",
+    "static/css/main.fa996911.chunk.css",
+    "static/js/main.df80b870.chunk.js"
+  ]
+}
